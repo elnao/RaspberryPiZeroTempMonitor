@@ -1,7 +1,7 @@
 ### Download and install Rasbperry PI Imager.
 ### Install Rasbperry PI Lite to SD card.
 ### Boot up your Raspberry PI Zero.
-### Run sudo raspi-config and
+### Run `sudo raspi-config` and
 - Enable SSH
 - Enable i2c
 - Change Password
