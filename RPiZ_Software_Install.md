@@ -19,13 +19,13 @@
 ### Create Demo Script and Test Temp Sensor
 - `sudo nano temp_demo.py`
 - Copy the below script in the nano editor
->import board
->import digitalio
->import busio
->import time
->import adafruit_bme280
->
-># Create library object using our Bus I2C port
+`import board`
+`import digitalio`
+`import busio`
+`import time`
+`import adafruit_bme280`
+
+`# Create library object using our Bus I2C port`
 >i2c = busio.I2C(board.SCL, board.SDA)
 >bme280 = adafruit_bme280.Adafruit_BME280_I2C(i2c)
 >#or with other sensor address
