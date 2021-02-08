@@ -14,7 +14,7 @@
 - `sudo pip3 install --upgrade setuptools`
 - `sudo pip3 install --upgrade adafruit-python-shell`
 *Above 5 commands can be found at: https://web.archive.org/web/20210207181436/https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi*
-- `sudo pip3 install adafruit-circuitpython-busdevice
+- `sudo pip3 install adafruit-circuitpython-busdevice`
 - `sudo pip3 install adafruit-circuitpython-bme280`
 *Above command can be found at: https://web.archive.org/web/20210207224604/https://github.com/adafruit/Adafruit_CircuitPython_BME280*
 - `sudo apt-get install python3-rpi.gpio
@@ -23,6 +23,7 @@
 
 ### Create Demo Script and Test Temp Sensor
 - `sudo nano temp_demo.py`
-- Copy the contents of the usage example at this page into the nano editor *
-https://web.archive.org/web/20210207224604/https://github.com/adafruit/Adafruit_CircuitPython_BME280*
+- Copy the contents of the usage example at the below page into the nano editor.
+*https://web.archive.org/web/20210207224604/https://github.com/adafruit/Adafruit_CircuitPython_BME280*
+- Save and exit nano
 - run `python3 temp_demo.py`
