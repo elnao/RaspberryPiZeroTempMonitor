@@ -27,3 +27,6 @@
 *https://web.archive.org/web/20210207224604/https://github.com/adafruit/Adafruit_CircuitPython_BME280*
 - Save and exit nano
 - run `python3 temp_demo.py`
+
+### Install Flask Web Server
+sudo apt install python3-flask
