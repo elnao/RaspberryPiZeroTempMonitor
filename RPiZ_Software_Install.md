@@ -29,4 +29,5 @@
 - run `python3 temp_demo.py`
 
 ### Install Flask Web Server
-sudo apt install python3-flask
+- `sudo apt install python3-flask`
+- follow instructions at https://www.instructables.com/Python-WebServer-With-Flask-and-Raspberry-Pi/
