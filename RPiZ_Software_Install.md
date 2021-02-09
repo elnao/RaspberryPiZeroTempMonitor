@@ -31,3 +31,7 @@
 ### Install Flask Web Server
 - `sudo apt install python3-flask`
 - follow instructions at https://www.instructables.com/Python-WebServer-With-Flask-and-Raspberry-Pi/
+
+### Render CSV Data in HTML
+- `sudo pip3 install pandas`
+
